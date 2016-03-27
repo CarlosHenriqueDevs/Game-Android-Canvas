@@ -23,5 +23,5 @@
 	    android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
 	    screenOrientation="landscape" />
     </application>
-
+ 
 </manifest>
